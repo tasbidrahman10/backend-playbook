@@ -1,7 +1,7 @@
 # Keep original roadmap screenshots outside git
-Plan/*.jpeg
-Plan/*.jpg
-Plan/*.png
+roadmap-images/*.jpeg
+roadmap-images/*.jpg
+roadmap-images/*.png
 
 # Python cache and virtual env artifacts
 __pycache__/

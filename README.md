@@ -21,17 +21,17 @@ Phase 1 only.
 - Build artifacts you can rerun from any machine
 
 ## Repository Structure
-- Plan/phase-1-foundation: complete Phase 1 roadmap and practice areas
-- Plan/phase-1-foundation/01-language-core/python-data-model-lab: active Python data model lab with exercises and tests
+- phase-1-foundation: complete Phase 1 roadmap and practice areas
+- phase-1-foundation/01-language-core/python-data-model-lab: active Python data model lab with exercises and tests
 
 ## Phase 1 Start Here
-1. Read: Plan/phase-1-foundation/README.md
-2. Begin coding: Plan/phase-1-foundation/01-language-core/python-data-model-lab
+1. Read: phase-1-foundation/README.md
+2. Begin coding: phase-1-foundation/01-language-core/python-data-model-lab
 3. Implement each exercise in order
 4. Add tests as behavior becomes stable
 
 ## Running The Data Model Lab
-From Plan/phase-1-foundation/01-language-core/python-data-model-lab:
+From phase-1-foundation/01-language-core/python-data-model-lab:
 
 ```bash
 python run_all.py
