@@ -1,0 +1,9 @@
+[project]
+name = "python-data-model-lab"
+version = "0.1.0"
+description = "Implementation-first Python data model exercises"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]

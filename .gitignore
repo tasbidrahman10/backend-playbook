@@ -1,0 +1,23 @@
+# Keep original roadmap screenshots outside git
+Plan/*.jpeg
+Plan/*.jpg
+Plan/*.png
+
+# Python cache and virtual env artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Test and tooling cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/*.code-workspace
